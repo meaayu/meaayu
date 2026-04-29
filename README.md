@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**meaayu/meaayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm aayu 👋
+*Self-taught Developer & Digital Artist*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Stack
+`Rust` • `GTK4` • `Python` • `Wayland` • `Fedora`
+
+### 🎨 The Vision
+**Coding:** Crafting high-performance, minimalist tools.
+**Art:** Frame-by-frame 2D animation & 3D modeling.
+
+---
+
+### 🚀 Currently Working On
+- 🖌️ A custom-built 2D hand-drawn animation engine.
+- 🐧 Perfecting my Niri/Wayland ricing setup.
+- 📈 Mastering Atomic Habits in my daily workflow.
+
+[Portfolio](https://aayu.is-a-good.dev) • [ArtStation](#) • [Twitter/X](#)
+
+</div>
+
+### 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" alt="Stats" />
+</p>
