@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ The Stack
-`Rust` • `GTK4` • `Python` • `Wayland` • `React`
+`Rust` • `GTK4` • `Python` • `Wayland` • `React` • `c++` • `python`
 
 ### 🎨 The Vision
 **Coding:** Crafting high-performance, minimalist tools, Software Development, WebDevelopment.
