@@ -17,7 +17,6 @@
 ### 🚀 Currently Working On
 - 🖌️ A custom-built 2D hand-drawn animation engine.
 - 🐧 Perfecting my Niri/Wayland ricing setup.
-- 📈 Mastering Atomic Habits in my daily workflow.
 
 [Portfolio](https://aayu.is-a-good.dev) • [ArtStation](#) • [Twitter/X](#)
 
