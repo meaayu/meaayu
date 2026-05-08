@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ The Stack
-`Rust` • `GTK4` • `Python` • `Wayland` • `Fedora`
+`Rust` • `GTK4` • `Python` • `Wayland` • `React`
 
 ### 🎨 The Vision
 **Coding:** Crafting high-performance, minimalist tools.
