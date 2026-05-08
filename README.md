@@ -9,8 +9,8 @@
 `Rust` • `GTK4` • `Python` • `Wayland` • `React`
 
 ### 🎨 The Vision
-**Coding:** Crafting high-performance, minimalist tools.
-**Art:** Frame-by-frame 2D animation & 3D modeling.
+**Coding:** Crafting high-performance, minimalist tools, Software Development, WebDevelopment.
+**Art:** Frame-by-frame 2D animation, 3D modeling, Sketching, DigitalAry.
 
 ---
 
