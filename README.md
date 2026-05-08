@@ -18,6 +18,6 @@
 - 🖌️ A custom-built 2D hand-drawn animation engine.
 - 🐧 Perfecting my Niri/Wayland ricing setup.
 
-[Portfolio](https://aayu.is-a-good.dev)
+[Portfolio](https://meaayu.vercel.app)
 
 </div>
