@@ -35,7 +35,7 @@
 
 ---
 
-### [Portfolio](https://meaayu.vercel.app) • [Developer Page](https://aayu.is-a.dev)
+### [Portfolio](https://meaayu.vercel.app) •
 
 *“Habits are the compound interest of self-improvement.”*
 `1% better every day`
