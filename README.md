@@ -1,21 +1,68 @@
 <div align="center">
-  <h1><code>aayu.sh</code></h1>
-  <p><strong>Systems Developer • 2D Animator • 3D Artist</strong></p>
-  <p><i>Building minimalist tools and fluid motion on Wayland</i></p>
-</div>
+
+# ✦ `aayu.sh` ✦
+**Systems Developer & Digital Artist**
+*Fusing high-performance Rust logic with fluid 2D motion.*
 
 ---
 
-### 💻 System & Environment
-- **OS:** Fedora (Everything)
-- **Compositor:** [Niri](https://github.com/YaLTeR/niri) (Scrollable Tiling)
-- **Editor:** [Zed](https://zed.dev) (Vibe Coding / Performance)
-- **Palette:** `Catppuccin` / `Gruvbox` / `Adwaita`
+### 🌐 [Portfolio](https://meaayu.vercel.app) • [Dev Page](https://aayu.is-a.dev)
 
-### 🔧 Development Stack
-```rust
-struct Developer {
-    languages: ["Rust", "C++", "Python", "Node.js"],
-    frameworks: ["GTK4", "React", "Tauri"],
-    focus: "High-performance, non-Electron utilities"
-}
+---
+
+### 🛠️ The Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,cpp,python,nodejs,react,gtk,linux,fedora&theme=dark" />
+</p>
+
+---
+
+<table>
+  <tr>
+    <td align="center" width="400">
+      <br />
+      <h3>💻 Development</h3>
+      <code>OS: Fedora Everything</code><br />
+      <code>WM: Niri (Wayland)</code><br />
+      <code>Editor: Zed</code><br />
+      <code>Workflow: Vibe Coding</code>
+      <br /><br />
+    </td>
+    <td align="center" width="400">
+      <br />
+      <h3>🎨 Creative</h3>
+      <code>Anatomy: Loomis Method</code><br />
+      <code>Hardware: XP-Pen Deco 01</code><br />
+      <code>2D Engine: Rust / GTK4</code><br />
+      <code>Styles: Digital & Traditional</code>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Ongoing Projects
+**[Custom Animation Engine]**
+*A high-performance tool for frame-by-frame 2D animation.*
+
+**[Digital Atelier]**
+*Educational platform featuring 3D head models & value studies.*
+
+**[Niri Dotfiles]**
+*Minimalist Wayland configuration with Catppuccin themes.*
+
+---
+
+### 📊 Github Activity
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" alt="Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" alt="Top Langs" />
+
+---
+
+*“Habits are the compound interest of self-improvement.”*
+
+</div>
