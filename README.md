@@ -31,7 +31,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" />
+username=YOUR_USERNAME&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" />
 
 ---
 
