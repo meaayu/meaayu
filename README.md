@@ -1,40 +1,75 @@
 <div align="center">
 
 # `Aayu.sh`
+
 ### Systems Developer • Digital Artist
 
-Minimal systems. Fluid motion. Handcrafted experiences.
+> Minimal systems. Fluid motion. Handcrafted experiences.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+minimalist+tools+for+Linux+and+Wayland;Creating+expressive+2D+animation+workflows;Blending+engineering+with+visual+motion" />
 
 ---
 
-### ⚡ The Stack
+## ⚡ Stack
 
-`Rust` • `GTK4` • `C++` • `Wayland` • `React` • `Python` • `Node.js`
+<p>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/GTK4-0d1117?style=for-the-badge&logo=gtk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Wayland-0d1117?style=for-the-badge&logo=wayland&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ---
 
 <table>
 <tr>
-<td align="center" width="400">
+<td width="450" valign="top">
 
-### 🚀 Engineering
+## 🚀 Engineering
 
-Building high-performance minimalist tools  
-for the Linux and Wayland ecosystem.
+Designing high-performance tools focused on:
 
-Focused on:
-`Rust` • `Low-Level Systems` • `UI Architecture`
+- Minimal UI/UX
+- Linux desktop workflows
+- Wayland ecosystems
+- Low-level systems programming
+- Responsive creative tooling
+
+<br>
+
+```rs
+fn philosophy() {
+    build_fast();
+    stay_minimal();
+    remove_distractions();
+}
+```
 
 </td>
 
-<td align="center" width="400">
+<td width="450" valign="top">
 
-### 🖌️ Artist
+## 🖌️ Artist
 
-Specializing in 2D hand-drawn animation  
-and expressive visual motion.
+Focused on expressive visual storytelling through:
 
-Blending cinematic atmosphere with interaction.
+- 2D Hand-Drawn Animation
+- Cinematic Motion
+- Stylized Illustration
+- Visual Development
+- Atmospheric Composition
+
+<br>
+
+```txt
+motion > perfection
+feeling > complexity
+```
 
 </td>
 </tr>
@@ -42,31 +77,33 @@ Blending cinematic atmosphere with interaction.
 
 ---
 
-## 📁 Projects in Development
+# 📁 Projects in Development
 
 ### 🎞️ 2D Animation Engine
 `C#` • `AvaloniaUI`
 
-A lightweight animation workflow focused on
-frame-by-frame creativity and responsive tooling.
+A lightweight animation environment built for
+fluid frame-by-frame workflows and distraction-free creation.
 
----
+<br>
 
 ### 🖥️ Niri Config
-Minimalist Wayland ricing setup built around
-clarity, motion, and distraction-free workflow.
+
+Minimalist Wayland ricing setup centered around:
+- clarity
+- rhythm
+- keyboard-driven interaction
+- cinematic desktop atmosphere
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-
----
-
-### 🌐 Links
+## 🌐 Links
 
 [Portfolio](https://meaayu.vercel.app)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:222222&section=footer"/>
 
 > *“Habits are the compound interest of self-improvement.”*  
 > `1% better every day`
