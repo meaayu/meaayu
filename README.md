@@ -26,7 +26,7 @@
 ---
 
 ### 📁 Projects in Development
-**[2D Animation Engine]** — *Rust/GTK4*
+**[2D Animation Engine]** — *c#/AvaloniaUI*
 **[Niri Config]** — *Minimalist Wayland Ricing*
 
 ---
