@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/GTK4-0d1117?style=for-the-badge&logo=gtk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Wayland-0d1117?style=for-the-badge&logo=wayland&logoColor=white" />
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white" />
