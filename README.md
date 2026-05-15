@@ -2,7 +2,7 @@
 
 <br>
 
-**aayu.sh**
+# aayu.sh
 
 systems developer · digital artist
 
