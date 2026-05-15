@@ -1,99 +1,86 @@
 <div align="center">
 
-# `Aayu.sh`
+<br>
 
-### Systems Developer • Digital Artist
-
-> Minimal systems. Fluid motion. Handcrafted experiences.
+```
+  ░█████╗░░█████╗░██╗░░░██╗██╗░░░██╗░░░░░░░██████╗██╗░░██╗
+  ██╔══██╗██╔══██╗╚██╗░██╔╝██║░░░██║░░░░░░██╔════╝██║░░██║
+  ███████║███████║░╚████╔╝░██║░░░██║░█████╗╚█████╗░███████║
+  ██╔══██║██╔══██║░░╚██╔╝░░██║░░░██║░╚════╝░╚═══██╗██╔══██║
+  ██║░░██║██║░░██║░░░██║░░░╚██████╔╝░░░░░░░██████╔╝██║░░██║
+  ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░░░░░░░░╚═════╝░╚═╝░░╚═╝
+```
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+minimalist+tools+for+Linux+and+Wayland;Creating+expressive+2D+animation+workflows;Blending+engineering+with+visual+motion" />
+*systems developer · digital artist*
+
+<br>
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![GTK4](https://img.shields.io/badge/GTK4-000000?style=flat-square&logo=gtk&logoColor=white)](https://gtk.org)
+[![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+
+</div>
+
+<br>
 
 ---
-
-## ⚡ Stack
-
-<p>
-<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/GTK4-0d1117?style=for-the-badge&logo=gtk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
----
-
-<table>
-<tr>
-<td width="450" valign="top">
-
-## 🚀 Engineering
-
-Designing high-performance tools focused on:
-
-- Minimal UI/UX
-- Linux desktop workflows
-- Wayland ecosystems
-- Low-level systems programming
-- Responsive creative tooling
 
 <br>
 
 ```rs
 fn philosophy() {
-    build_fast();
-    stay_minimal();
-    remove_distractions();
+    motion    >  perfection;
+    feeling   >  complexity;
+    minimal   >  everything;
 }
 ```
 
-</td>
+<br>
 
-<td width="450" valign="top">
-
-## 🖌️ Artist
-
-Focused on expressive visual storytelling through:
-
-- 2D Hand-Drawn Animation
-- Cinematic Motion
-- Stylized Illustration
-- Visual Development
-- Atmospheric Composition
+---
 
 <br>
 
-```txt
-motion > perfection
-feeling > complexity
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Engineering**
+
+Building high-performance tools for Linux and Wayland — keyboard-driven, distraction-free, handcrafted.
+
+</td>
+<td width="50%" valign="top">
+
+**Art**
+
+Expressive 2D animation and visual storytelling — cinematic motion, stylized worlds, atmospheric feeling.
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
-
-# 📁 Projects in Development
-
-### 🎞️ 2D Animation Engine
-`C#` • `AvaloniaUI`
-
-A lightweight animation environment built for
-fluid frame-by-frame workflows and distraction-free creation.
 
 <br>
 
-### 🖥️ Niri Config
+<div align="center">
 
-Minimalist Wayland ricing setup centered around:
-- clarity
-- rhythm
-- keyboard-driven interaction
-- cinematic desktop atmosphere
+**Currently building**
 
----
+`🎞 2D Animation Engine` — C# · AvaloniaUI · frame-by-frame · fluid
+
+`🖥 Niri Config` — Wayland · minimal · cinematic · keyboard-first
+
+<br>
+
+<sub>open to collaboration on creative tooling and Linux desktop projects</sub>
 
 </div>
