@@ -4,7 +4,7 @@
 
 # aayu.sh
 
-systems developer · digital artist
+Systems developer · Digital artist
 
 <br>
 
