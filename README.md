@@ -96,15 +96,4 @@ Minimalist Wayland ricing setup centered around:
 
 ---
 
-## 🌐 Links
-
-[Portfolio](https://meaayu.vercel.app)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:222222&section=footer"/>
-
-> *“Habits are the compound interest of self-improvement.”*  
-> `1% better every day`
-
 </div>
