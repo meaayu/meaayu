@@ -17,10 +17,5 @@ Systems developer · Digital artist
 
 <br>
 
-*building a 2D animation engine · ricing niri on wayland*
-
-<br>
-
-`motion > perfection` &nbsp;·&nbsp; `feeling > complexity`
 
 </div>
