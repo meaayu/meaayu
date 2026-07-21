@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=systems+developer;learning+c%2B%2B;digital+artist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=systems+developer;learning+c%2B%2B;digital+art;linux+enthusiast" alt="Typing SVG" />
 
 ---
 
@@ -17,6 +17,9 @@
     <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></td>
     <td align="center"><img src="https://img.shields.io/badge/GTK4-A89968?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK4"/></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></td>
+  </tr>
 </table>
 
 ---
@@ -27,6 +30,7 @@
 - **Modern C++** for performance & efficiency
 - **Creative Coding** & Digital Art
 - **Frontend Development** with React
+- **Linux** systems and development
 
 ---
 
