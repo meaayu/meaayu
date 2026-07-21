@@ -1,6 +1,6 @@
 <h1 align="center">Aayu</h1>
 
-<p align="center">Systems developer • learning c++ • digital art</p>
+<p align="center">Systems developer • digital artist</p>
 
 ---
 
