@@ -1,10 +1,10 @@
-<h1 align="center">meaayu</h1>
+<h1 align="center">Aayu</h1>
 
 <p align="center">Systems developer • learning c++ • digital art</p>
 
 ---
 
-## 🛠️ tech stack
+## 🛠️ Tech stack
 
 ```
 languages    rust  •  c++  •  python
@@ -12,14 +12,14 @@ frontend     react  •  node.js
 tools        gtk4  •  linux
 ```
 
-## 🎯 focus areas
+## 🎯 Focus areas
 
 - systems programming with **rust**
 - modern **c++** for performance
 - creative coding & digital art
 - frontend development with **react**
 
-## 📚 currently learning
+## 📚 Currently learning
 
 Diving deep into **c++** — memory management, algorithms, efficient systems.
 
