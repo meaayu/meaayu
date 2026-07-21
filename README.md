@@ -1,6 +1,6 @@
-# meaayu
+<h1 align="center">meaayu</h1>
 
-> systems developer • learning c++ • digital art
+<p align="center">Systems developer • learning c++ • digital art</p>
 
 ---
 
@@ -21,8 +21,8 @@ tools        gtk4  •  linux
 
 ## 📚 currently learning
 
-diving deep into **c++** — memory management, algorithms, efficient systems.
+Diving deep into **c++** — memory management, algorithms, efficient systems.
 
 ---
 
-**[→ view my projects](https://github.com/meaayu?tab=repositories)**
+<p align="center"><strong><a href="https://github.com/meaayu?tab=repositories">→ view my projects</a></strong></p>
