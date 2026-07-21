@@ -1,28 +1,21 @@
 <h1 align="center">Aayu</h1>
-
-<p align="center">Systems developer • Digital artist</p>
-
----
-
-## 🛠️ Tech stack
-
-```
-languages    rust  •  c++  •  python
-frontend     react  •  node.js
-tools        gtk4  •  linux
-```
-
-## 🎯 Focus areas
-
-- systems programming with **rust**
-- modern **c++** for performance
-- creative coding & digital art
-- frontend development with **react**
-
-## 📚 Currently learning
-
-Diving deep into **c++** — memory management, algorithms, efficient systems.
+<p align="center"><em>Systems developer • Digital artist</em></p>
 
 ---
 
-<p align="center"><strong><a href="https://github.com/meaayu?tab=repositories">→ view my projects</a></strong></p>
+### Tech Stack
+```
+Languages     Rust  •  C++  •  Python
+Frontend      React  •  Node.js
+Tools         GTK4  •  Linux
+```
+
+### Focus
+- Systems programming with **Rust**
+- High-performance **C++**
+- Creative coding & digital art
+- Modern frontend development
+
+---
+
+<p align="center"><a href="https://github.com/meaayu?tab=repositories"><strong>View Projects →</strong></a></p>
